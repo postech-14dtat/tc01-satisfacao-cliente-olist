@@ -1,4 +1,4 @@
-# 📊 Análise de KPIs - E-commerce Olist
+# 📊 Análise de Indicadores de Satisfação do Cliente - E-commerce Olist
 
 ## 📌 Sobre o Projeto
 
