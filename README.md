@@ -1,6 +1,6 @@
-# 📊 Análise de Indicadores de Satisfação do Cliente - E-commerce Olist
+# Análise de Indicadores de Satisfação do Cliente - E-commerce Olist
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto tem como objetivo analisar a satisfação dos clientes em um cenário de e-commerce baseado nos dados públicos da Olist. A proposta é transformar dados de experiência do consumidor em insights estratégicos que possam apoiar a tomada de decisão de investidores e acionistas.
 
@@ -17,15 +17,15 @@ Dessa forma, o projeto procura evidenciar fatores que influenciam a percepção 
 
 ---
 
-## 🎯 Problema de Negócio
+## Problema de Negócio
 
 Quais fatores da experiência de compra, como categoria do produto, região do cliente e prazo de entrega, mais influenciam a satisfação dos consumidores da Olist e podem sinalizar riscos ou oportunidades para investidores?
 
 ---
 
-## 📊 Indicadores Analisados
+## Indicadores Analisados
 
-### 💰 Satisfação do cliente (Responsável: Ingrid Xavier)
+### Satisfação do Cliente (Responsável: Ingrid Xavier)
 
 * Ranking de categorias mais avaliadas
 * Distribuição de clientes por perfil NPS
@@ -34,7 +34,7 @@ Quais fatores da experiência de compra, como categoria do produto, região do c
 
 ---
 
-### 🚚 Logística (Responsável: Paula Goés)
+### Região (Responsável: Paula Goés)
 
 * Ranking de estados com maior satisfação
 * Desempenho regional de satisfação
@@ -42,7 +42,7 @@ Quais fatores da experiência de compra, como categoria do produto, região do c
 * Cancelamentos de pedidos por estado
 
 ---
-### ⭐ Contexto Olist (Responsável: Erika Bernardo)
+### Contexto Olist (Responsável: Erika Bernardo)
 
 * Perfil de satisfação por região
 * Crescimento da receita da Olist
@@ -50,7 +50,7 @@ Quais fatores da experiência de compra, como categoria do produto, região do c
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Python (Pandas, NumPy, Matplotlib)
 * Google Colab
@@ -58,10 +58,10 @@ Quais fatores da experiência de compra, como categoria do produto, região do c
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
-📁 1 - Projeto-Olist-KPIs
+📁 1 - tc01-satisfacao-cliente-olist
 │
 ├── 📁 notebooks         # Códigos do Google Colab
 ├── 📁 datasets          # Dados utilizados no projeto
@@ -69,7 +69,7 @@ Quais fatores da experiência de compra, como categoria do produto, região do c
 
 ---
 
-## 📈 Objetivo da Análise
+## Objetivo da Análise
 
 * Identificar os principais fatores que influenciam a satisfação dos clientes no e-commerce Olist.
 * Avaliar a distribuição de clientes promotores, neutros e detratores a partir das avaliações realizadas.
@@ -79,7 +79,7 @@ Quais fatores da experiência de compra, como categoria do produto, região do c
 
 ---
 
-## 🚀 Resultados Esperados
+## Resultados Esperados
 
 * Compreensão dos principais direcionadores da satisfação e insatisfação dos clientes.
 * Identificação de categorias, regiões e etapas da jornada de compra com maior oportunidade de melhoria.
@@ -90,7 +90,7 @@ Quais fatores da experiência de compra, como categoria do produto, região do c
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 * Erika Bernardo – Contexto Olist
 * Ingrid Xavier – Satisfação do cliente
@@ -100,6 +100,6 @@ Quais fatores da experiência de compra, como categoria do produto, região do c
 
 ---
 
-## 📌 Considerações Finais
+## Considerações Finais
 
 Este projeto foi desenvolvido com foco na aplicação prática de análise de dados em um cenário real de e-commerce, integrando diferentes áreas do negócio para gerar valor estratégico por meio de dados.
