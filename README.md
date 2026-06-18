@@ -6,10 +6,10 @@ Este projeto tem como objetivo analisar a satisfação dos clientes em um cenár
 
 A análise tem como foco a avaliação de indicadores relacionados à experiência de compra, considerando principalmente:
 
-⭐ Satisfação do Cliente e NPS
-📦 Categorias de Produtos
-🌎 Regiões do Brasil
 🚚 Prazo de Entrega
+⭐ Satisfação do Cliente
+🌎 Taxa de Atraso
+
 
 O estudo busca identificar padrões de satisfação entre clientes promotores, neutros e detratores, analisando como esses perfis se distribuem entre as categorias de produtos mais avaliadas, diferentes regiões do país e possíveis impactos relacionados ao prazo de entrega.
 
@@ -27,48 +27,26 @@ Quais fatores da experiência de compra, como categoria do produto, região do c
 
 ### 💰 Satisfação do cliente (Responsável: Ingrid Xavier)
 
-* Categorias com Maior Volume de Vendas
-* Categorias com Maior Volume de Avaliações
-* Distribuição de Promotores, Neutros e Detratores
-* Análise Textual de Clientes Promotores
-* Análise Textual de Clientes Detratores
+* Ranking de categorias mais avaliadas
+* Distribuição de clientes por perfil NPS
+* Análise textual de promotores e detratores
+* Comparação entre Olist e B2W-Reviews01
 
 ---
 
 ### 🚚 Logística (Responsável: Paula Goés)
 
-* ATUALIZAR
-
-
----
-### ⭐ Prazo de Entrega (Responsável: Erika Bernardo)
-
-* ATUALIZAR
-
-#### 🔍 Estratégias propostas:
-
-* ATUALIZAR
+* Ranking de estados com maior satisfação
+* Desempenho regional de satisfação
+* Recompra por nível de satisfação
+* Cancelamentos de pedidos por estado
 
 ---
+### ⭐ Contexto Olist (Responsável: Erika Bernardo)
 
-### ⭐ Satisfação do Cliente (Responsável: Maycon, Carlos)
-
-* Correlação entre atraso e Review Score
-* Nota Média ao Longo do Tempo
-* % de Avaliações Positivas
-* % de Pedidos com Atraso
-
-#### 🎯 Objetivos:
-
-* Medir a percepção geral do cliente
-* Avaliar impacto da logística na satisfação
-* Monitorar evolução da qualidade do serviço
-
----
-
-#### 🚀 Recomendações iniciais:
-
-* ATUALIZAR
+* Perfil de satisfação por região
+* Crescimento da receita da Olist
+* Tendência de satisfação dos clientes
 
 ---
 
@@ -85,41 +63,40 @@ Quais fatores da experiência de compra, como categoria do produto, região do c
 ```
 📁 1 - Projeto-Olist-KPIs
 │
-├── 📁 notebooks         # Análises e tratamento de dados (Google Colab)
+├── 📁 notebooks         # Códigos do Google Colab
 ├── 📁 datasets          # Dados utilizados no projeto
-├── 📁 docs              # Relatório executivo
 ```
 
 ---
 
 ## 📈 Objetivo da Análise
 
-* Medir impacto na satisfação do cliente
+* Identificar os principais fatores que influenciam a satisfação dos clientes no e-commerce Olist.
+* Avaliar a distribuição de clientes promotores, neutros e detratores a partir das avaliações realizadas.
+* Analisar a relação entre prazo de entrega, atrasos e percepção dos clientes sobre a experiência de compra.
+* Comparar os níveis de satisfação entre categorias de produtos, regiões do Brasil e bases de dados distintas.
+* Gerar insights que apoiem a tomada de decisão de investidores.
 
 ---
 
 ## 🚀 Resultados Esperados
 
-* Insights acionáveis para tomada de decisão
-* Melhoria na experiência do cliente
+* Compreensão dos principais direcionadores da satisfação e insatisfação dos clientes.
+* Identificação de categorias, regiões e etapas da jornada de compra com maior oportunidade de melhoria.
+* Evidências sobre o impacto da logística e do prazo de entrega na experiência do consumidor.
+* Comparação entre a base Olist e a base externa B2W-Reviews01 para validação de padrões de comportamento.
+* Recomendações orientadas por dados para melhoria da experiência do cliente e suporte à tomada de decisão estratégica.
 
----
-
-## 🔗 Links Importantes
-
-* 📓 Notebook (Google Colab): *(inserir link)*
-* 📁 Dataset: *(inserir link)*
-* 📄 Relatório Executivo: *(inserir link)*
 
 ---
 
 ## 👥 Equipe
 
-* Ingrid Xavier – KPIs de Receita
-* Paula Goés – Logística e SLA
-* Erika Bernardo – Satisfação do Cliente
-* Patricia Ferreira - Retenção de Clientes
-* Suellen Moraes - Analise de Pedidos
+* Erika Bernardo – Contexto Olist
+* Ingrid Xavier – Satisfação do cliente
+* Patricia Ferreira – Documentação (PDF)
+* Paula Goés – Logística 
+* Suellen Moraes – Documentação (PPT) e vídeo
 
 ---
 
